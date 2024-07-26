@@ -1,0 +1,14 @@
+
+.dashboard-container {
+   
+    position: relative;
+    display: inline-block; 
+    position: fixed;
+    top: 0; 
+    right: 77%; 
+    margin: 10px; 
+    z-index: 1000; 
+    
+  }
+  
+ 
